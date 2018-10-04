@@ -11,7 +11,7 @@
 
 ![Monolith vs Microservices architecture](/images/monolith_vs_microservices.png)
 
-Courtesy: [Martin Fowler's Articles](https://martinfowler.com/articles/microservices.html)
+######Courtesy: [Martin Fowler's Articles](https://martinfowler.com/articles/microservices.html)
 
 +++
 
@@ -49,19 +49,25 @@ Courtesy: [Martin Fowler's Articles](https://martinfowler.com/articles/microserv
 ### Healthy distributed system
 
 ![Healthy distributed system](/images/healthy_distributed_systems.png) 
-Courtesy: [Netflix Hystrix](https://github.com/Netflix/Hystrix/wiki)
+
+######Courtesy: [Netflix Hystrix](https://github.com/Netflix/Hystrix/wiki)
+
 +++
 
 ### One dependent service failure
 
 ![One dependenct service failure](/images/one_dependency_service_failure.png) 
-Courtesy: [Netflix Hystrix](https://github.com/Netflix/Hystrix/wiki)
+
+######Courtesy: [Netflix Hystrix](https://github.com/Netflix/Hystrix/wiki)
+
 +++
 
 ### Cascading services failure
 
 ![Cascading services failure](/images/cascading_services_failure.png)
-Courtesy: [Netflix Hystrix](https://github.com/Netflix/Hystrix/wiki)
+
+######Courtesy: [Netflix Hystrix](https://github.com/Netflix/Hystrix/wiki)
+
 ---
 
 ## Demo

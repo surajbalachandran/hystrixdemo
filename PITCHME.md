@@ -11,7 +11,7 @@
 
 ![Monolith vs Microservices architecture](/images/monolith_vs_microservices.png)
 
-Courtesy of https://martinfowler.com/articles/microservices.html
+Courtesy: [Martin Fowler Articles](https://martinfowler.com/articles/microservices.html)
 
 +++
 

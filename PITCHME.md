@@ -46,9 +46,9 @@ Courtesy: [Martin Fowler Articles](https://martinfowler.com/articles/microservic
 
 +++
 
-### What does it solve?
+### Healthy distributed system
 
-![Healthy distributed system](/images/healthy_distributed_systems.png)
+![Healthy distributed system](/images/healthy_distributed_systems.png) ![One dependency failure](/images/one_dependency_service_failure.png) ![Cascading services failure](/images/cascading_services_failure.png)
 
 ---
 

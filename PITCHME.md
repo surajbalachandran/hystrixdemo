@@ -9,8 +9,7 @@
 
 ## Monolithic vs Microservices Architecture
 
-![Monolith vs Microservices architecture]
-(https://github.com/surajbalachandran/hystrixdemo/blob/master/images/monolith_vs_microservices.png)
+![Monolith vs Microservices architecture](/images/monolith_vs_microservices.png)
 
 Courtesy of https://martinfowler.com/articles/microservices.html
 

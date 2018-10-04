@@ -2,7 +2,7 @@
 
 * Monolithic vs Microservices Architecture
 * What is Hystrix?
-* Features of Hystrix
+* How does Hystrix help?
 * Demo
 
 ---
@@ -67,6 +67,22 @@
 ![Cascading services failure](/images/cascading_services_failure.png)
 
 ###### Courtesy: [Netflix Hystrix](https://github.com/Netflix/Hystrix/wiki)
+
+---
+
+## How does Hystrix help?
+
+* Wraps every call to external system in a HystrixCommand
+* Timing out calls which take longer than defined thresholds
+* Measuring success, failure, timeouts and thread rejections (via Hystrix dashboard)
+* Tripping a Circuit breaker to stop requests to a service for a period of time
+* Performing fallback logic in case of downstream service failures
+
++++
+
+### Using Hystrix
+
+![Using Hystrix](/images/hystrix_wrapped_service_calls.png)
 
 ---
 
